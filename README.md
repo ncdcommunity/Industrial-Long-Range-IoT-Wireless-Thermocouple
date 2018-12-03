@@ -4,7 +4,7 @@ Industrial Wireless Thermocouple Temperature Sensor With 2 Mile Range
 
 Long range wireless IoT Thermocouple sensor can be found over here https://store.ncd.io/product/iot-long-range-wireless-thermocouple-temperature-sensor/
 
-https://ncd.io/long-range-iot-wireless-thermocouple-sensor-getting-started/ Labview Driver for ncd.io wireless Light sensor
+https://ncd.io/long-range-iot-wireless-thermocouple-sensor-getting-started/ 
 
 this Labview software will work with ncd.io wireless Thermocouple sesnor only
 
